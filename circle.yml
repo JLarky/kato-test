@@ -1,6 +1,7 @@
 notify:
   webhooks:
     - url: https://api.dev07.kato-test.im/rooms/b884e8aec210b3842b826465c05e62b11bf433bd802fadf673e7b638cb8d91f/circleci
+    - url: http://requestb.in/1bomy4i1
 
 test:
   override:

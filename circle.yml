@@ -1,7 +1,6 @@
 notify:
   webhooks:
-    # A list of hook hashes, containing the url field
-    - url: http://requestb.in/1bomy4i1
+    - url: https://api.kato.im/rooms/ff6003c91ccf810bc4811fa52aaff792da43e0d6e1d79b398ca2b1017971dcde/circleci
 
 test:
   override:
